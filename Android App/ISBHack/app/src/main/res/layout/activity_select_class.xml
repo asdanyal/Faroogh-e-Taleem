@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="20dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:orientation="vertical"
+    android:paddingTop="60dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mr. Asad Ali"
+        android:textSize="24sp"
+        android:textColor="#6868db"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:id="@+id/lblTitle"/>
+
+    <Button
+        android:id="@+id/btn_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6868db"
+        android:text="Class 5 A"
+        android:layout_margin="10dp"
+        />
+
+
+    <Button
+        android:id="@+id/btn_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6868db"
+        android:text="Class 5 D"
+        android:layout_margin="10dp"
+        />
+
+
+    <Button
+        android:id="@+id/btn_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6868db"
+        android:text="Class 6 B"
+        android:layout_margin="10dp"
+        />
+
+
+    <Button
+        android:id="@+id/btn_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6868db"
+        android:text="Class 6 D"
+        android:layout_margin="10dp"
+        />
+</LinearLayout>

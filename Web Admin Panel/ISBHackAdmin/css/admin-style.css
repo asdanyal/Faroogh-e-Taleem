@@ -1,0 +1,151 @@
+
+.logo {
+    display: flex;
+    height: 64px;
+    align-items: center;
+    justify-content: center;
+}
+
+.adminNav {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1), 0 1px 5px 0 rgba(0, 0, 0, 0.1), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+}
+
+
+.adminNav h5 {
+    font-weight: 300;
+    line-height: 64px;
+    margin: 0;
+    padding-left: 25px;
+}
+
+.navbar-fixed nav {
+    padding-left: 280px;
+}
+
+.side-nav {
+    width: 280px;
+}
+
+.side-nav a {
+    border-bottom: 1px solid rgba(0,0,0,.04);
+    background-color: rgba(0,0,0,.015);
+}
+
+.side-nav li:first-child {
+    border-bottom: 1px solid rgba(0,0,0,.04);
+}
+
+.side-nav li > a > i.material-icons {
+    margin-right: 15px;
+}
+
+.main-content {
+    padding-left: 280px;
+}
+
+.main-content .container {
+    width: 96%;
+    padding: 10px;
+}
+
+table.striped > tbody > tr > td {
+    border-radius: 0;
+    font-size: 13px;
+    padding: 10px 10px;
+}
+
+table.striped > thead > tr > th {
+    border-radius: 0;
+    font-size: 14px;
+    padding: 10px 10px;
+}
+
+.pagination {
+    text-align: center;
+}
+
+.pagination li.active {
+    background-color: #41cadb;
+}
+
+.login-bg {
+    background: url("../images/loginBg.jpg") no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.login-bg:before {
+    content: "";
+    background: url("../images/bgPatt.png");
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 110;
+}
+
+.login-bg h2 {
+    font-size: 40px;
+    line-height: normal;
+    color: #ffffff;
+    font-weight: normal;
+    margin: 0px;
+    position: absolute;
+    width: 100%;
+    top: 42%;
+    margin-top: -240px;
+    text-align: center;
+    text-shadow: 0 0 5px rgba(38, 78, 146, 0.8);
+}
+
+.login-bg h2 img {
+    width: 90px;
+    height: auto;
+}
+
+.login-box {
+    background-color: rgba(255,255,255,.95);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 1000;
+    margin-top: -150px;
+    margin-left: -250px;
+    width: 100%;
+    max-width: 500px;
+    min-height: 300px;
+    border-radius: 5px;
+    padding: 20px 15px;
+}
+
+.login-box .row {
+    margin-bottom: 10px;
+}
+
+.login-box h3 {
+    font-size: 25px;
+    line-height: normal;
+    color: #225e6d;
+    font-weight: normal;
+    text-align: center;
+    margin: 0 0 15px 0;
+}
+
+.login-box .btn {
+    width: 100%;
+}
+
+.sliderLogoText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%) translateY(-265px);
+    z-index: 1000;
+}
+
+#myChart {
+    min-height: 450px;
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ISBHack</string>
+    <string name="select">Choose an object</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="object_array">
+        <item>House</item>
+        <item>Car</item>
+        <item>Cake</item>
+        <item>Money</item>
+        <item>Food</item>
+        <item>Phone</item>
+        <item>Laptop</item>
+    </string-array>
+</resources>
