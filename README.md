@@ -10,9 +10,6 @@ Faroogh-e-Taleem
 ![Image 7](https://github.com/asdanyal/ISBHack_2017/blob/master/images/7.PNG)
 ![Image 8](https://github.com/asdanyal/ISBHack_2017/blob/master/images/8.PNG)
 
-
-Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/8.PNG)
-
 http://github.com - automatic!
 [GitHub](http://github.com)
 
