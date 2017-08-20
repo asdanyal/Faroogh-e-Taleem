@@ -1,21 +1,14 @@
 Faroogh-e-Taleem
 ================
 
-![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/1.PNG)
-Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/1.PNG)
-![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/2.PNG)
-Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/2.PNG)
-![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/3.PNG)
-Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/3.PNG)
-![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/4.PNG)
-Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/4.PNG)
-![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/5.PNG)
-Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/5.PNG)
-![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/6.PNG)
-Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/6.PNG)
-![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/7.PNG)
-Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/7.PNG)
-![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/8.PNG)
+![Image 1](https://github.com/asdanyal/ISBHack_2017/blob/master/images/1.PNG)
+![Image 2](https://github.com/asdanyal/ISBHack_2017/blob/master/images/2.PNG)
+![Image 3](https://github.com/asdanyal/ISBHack_2017/blob/master/images/3.PNG)
+![Image 4](https://github.com/asdanyal/ISBHack_2017/blob/master/images/4.PNG)
+![Image 5](https://github.com/asdanyal/ISBHack_2017/blob/master/images/5.PNG)
+![Image 6](https://github.com/asdanyal/ISBHack_2017/blob/master/images/6.PNG)
+![Image 7](https://github.com/asdanyal/ISBHack_2017/blob/master/images/7.PNG)
+![Image 8](https://github.com/asdanyal/ISBHack_2017/blob/master/images/8.PNG)
 
 
 Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/8.PNG)
