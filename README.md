@@ -1,4 +1,5 @@
-#ISBHACKS
+Faroogh-e-Taleem
+================
 
 ![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/1.PNG)
 ![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/2.PNG)
