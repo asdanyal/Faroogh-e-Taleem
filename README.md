@@ -1,9 +1,10 @@
 Faroogh-e-Taleem
 ================
 
+The main objective is
 
+##Achieving Quality Primary Education Through Transparency Attendance
 
-To ensure the transparency in the education system
 
 The government is investing around **4 Billion rupees** to improve the education in the remote areas of Pakistan. They are giving **250 rupees** to students who have 70% attendance in the month. But in remote areas their is no check so teachers mark all students as present to take money from government. In this way government is bearing **2 billion loss** annually.
 
