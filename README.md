@@ -9,7 +9,9 @@ Faroogh-e-Taleem
 ![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/6.PNG)
 ![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/7.PNG)
 ![GitHub Logo](https://github.com/asdanyal/ISBHack_2017/blob/master/images/8.PNG)
-Format: ![Alt Text](url)
+
+
+Format: ![Alt Text](https://github.com/asdanyal/ISBHack_2017/blob/master/images/8.PNG)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
